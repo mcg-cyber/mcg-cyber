@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcg-cyber
-- 👀 I’m interested in ... Python programming
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Python and C programming
+- 🌱 I’m currently learning ... Python and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
