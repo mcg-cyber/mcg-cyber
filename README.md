@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcg-cyber
 - 👀 I’m interested in ... Python, Nim, C and Go programming
-- 🌱 I’m currently learning ... Python, Nim and Go
+- 🌱 I’m currently learning ... Python and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
